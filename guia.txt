@@ -1,0 +1,6 @@
+1. iniciar servidor xamp 
+2. colocar la carpeta konecta como raiz enla carpeta htdocts 
+3. disponer el script de bd en mysql llamado konecta
+4. poner la contraseña y el username en el archivo database alojado en la carpeta
+config para realizar la conexion
+5. direccion para entrar al login http://localhost/konecta/login 
